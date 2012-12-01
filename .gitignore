@@ -1,3 +1,7 @@
+# VIM temporary:
+*.swp
+
+# Derivative Python files
 *.py[cod]
 
 # C extensions
